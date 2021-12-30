@@ -1,7 +1,7 @@
 # Vue Lista de Músicos
 Primeiro projeto feito em Vue.js para fins de aprendizado e treinamento.
 
-## Configuração do projeto
+### Configuração do projeto
 ```
 npm install
 ```
